@@ -27,7 +27,7 @@ Implementación manual basada en la lógica de selección.
 - Lo coloca en la primera posición.
 - Repite el proceso con los números restantes.
 
-### 2. Algoritmo de la Burbuja (Bubble Sort) 🫧
+### 2. Algoritmo de la Burbuja (Bubble Sort) 🔮
 Implementación clásica investigada.
 - Compara pares de números adyacentes.
 - Intercambia posiciones si el número de la izquierda es mayor.
