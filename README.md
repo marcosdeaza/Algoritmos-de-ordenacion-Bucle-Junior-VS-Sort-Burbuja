@@ -1,5 +1,5 @@
 <h1 align="center">
-  🔢 Ordenador de Vectores en C++
+  Ordenador de Vectores en C++
 </h1>
 
 <p align="center">
